@@ -1,0 +1,17 @@
+{
+  "name": "socketolara",
+  "version": "1.0.0",
+  "description": "Strimoid Socket.io server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duxet",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0",
+    "socketio-jwt": "^2.3.5"
+  }
+}
