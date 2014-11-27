@@ -1,5 +1,5 @@
 {
-  "name": "socketolara",
+  "name": "strimoid-ws",
   "version": "1.0.0",
   "description": "Strimoid Socket.io server",
   "main": "index.js",
